@@ -32,8 +32,8 @@
 }
 @media (max-width: 900px){
     .section1-main{
-        display: block;
-        margin: 60px;
+        flex-wrap: wrap;
+        margin: 30px;
         text-align: center;
     }
     .social-links{
@@ -42,5 +42,9 @@
     }
     .section1-h3{
         text-align: center;
+    }
+    .section1-img{
+        width: 100%;
+        height: 100%;
     }
 }
