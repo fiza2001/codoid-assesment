@@ -7,7 +7,7 @@ export default function BlogCards() {
     <div className="card-outer-div">
        
       <div className="blog-card-main">
-      <img src={require("./card1.jpg")} alt="1" />
+      <img className="blog-card-img" src={require("./card1.jpg")} alt="1" />
           <p className="card-content">
           <p className="card-title">
             THE 11 BEST BEACHES IN MONOPOLI, PUGLIA
@@ -19,7 +19,7 @@ export default function BlogCards() {
           </p>
       </div>
       <div className="blog-card-main">
-      <img src={require("./card2.jpg")} alt="1" />
+      <img className="blog-card-img" src={require("./card2.jpg")} alt="1" />
           <p className="card-content">
           <p className="card-title">
           A SHORT GUIDE TO TORRE DELL'ORSO, PUGLIA
@@ -31,7 +31,7 @@ export default function BlogCards() {
           </p>
       </div>
       <div className="blog-card-main">
-      <img src={require("./card3.jpg")} alt="1" />
+      <img className="blog-card-img" src={require("./card3.jpg")} alt="1" />
           <p className="card-content">
           <p className="card-title">
           OUR GUIDE TO SCILLA | CALABRIA'S PRETTIEST FISHING VILLAGE
@@ -43,7 +43,7 @@ export default function BlogCards() {
           </p>
       </div>
       <div className="blog-card-main">
-      <img src={require("./card4.jpg")} alt="1" />
+      <img className="blog-card-img" src={require("./card4.jpg")} alt="1" />
           <p className="card-content">
           <p className="card-title">
           WHAT IS THE COPERTO IN ITALY?
@@ -56,7 +56,7 @@ export default function BlogCards() {
           </p>
       </div>
       <div className="blog-card-main">
-      <img src={require("./card5.jpg")} alt="1" />
+      <img className="blog-card-img" src={require("./card5.jpg")} alt="1" />
           <p className="card-content">
           <p className="card-title">
           HOW TO VISIT CAPO VATICANO IN CALABRIA + WHERE TO STAY
@@ -68,7 +68,7 @@ export default function BlogCards() {
           </p>
       </div>
       <div className="blog-card-main">
-      <img src={require("./card6.jpg")} alt="1" />
+      <img className="blog-card-img" src={require("./card6.jpg")} alt="1" />
           <p className="card-content">
           <p className="card-title">
           THE BEST THINGS TO DO IN TROPEA, ITALY | THE PEARL OF CALABRIA
