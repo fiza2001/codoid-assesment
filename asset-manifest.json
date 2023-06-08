@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/codoid-assesment/static/css/main.5d3f302c.css",
-    "main.js": "/codoid-assesment/static/js/main.74b0ffa2.js",
+    "main.css": "/codoid-assesment/static/css/main.b2a6ee32.css",
+    "main.js": "/codoid-assesment/static/js/main.dc0136d8.js",
     "static/js/787.fa4a499b.chunk.js": "/codoid-assesment/static/js/787.fa4a499b.chunk.js",
     "static/media/about1.jpg": "/codoid-assesment/static/media/about1.ae29b233c2921a94ea6d.jpg",
     "static/media/home-title-img.jpg": "/codoid-assesment/static/media/home-title-img.910b882cf638183f82a8.jpg",
-    "static/media/blog-bg2.jpg": "/codoid-assesment/static/media/blog-bg2.f62937ab7e0a992d5bf8.jpg",
+    "static/media/night.jpg": "/codoid-assesment/static/media/night.080d23e72ccf6ce8a6ab.jpg",
     "static/media/travel-main.jpg": "/codoid-assesment/static/media/travel-main.cea6cfe70908fae60235.jpg",
     "static/media/poster1.PNG": "/codoid-assesment/static/media/poster1.8ca5a7364ddceb5f489c.PNG",
     "static/media/poster2.PNG": "/codoid-assesment/static/media/poster2.3288c8a4fdd4d24bc78c.PNG",
@@ -32,12 +32,12 @@
     "index.html": "/codoid-assesment/index.html",
     "static/media/x.svg": "/codoid-assesment/static/media/x.ba58a0944c3a20dee81a2123c46d3053.svg",
     "static/media/menu.svg": "/codoid-assesment/static/media/menu.f99b5ed36a149e3d1cf17f9f2ee3b77c.svg",
-    "main.5d3f302c.css.map": "/codoid-assesment/static/css/main.5d3f302c.css.map",
-    "main.74b0ffa2.js.map": "/codoid-assesment/static/js/main.74b0ffa2.js.map",
+    "main.b2a6ee32.css.map": "/codoid-assesment/static/css/main.b2a6ee32.css.map",
+    "main.dc0136d8.js.map": "/codoid-assesment/static/js/main.dc0136d8.js.map",
     "787.fa4a499b.chunk.js.map": "/codoid-assesment/static/js/787.fa4a499b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d3f302c.css",
-    "static/js/main.74b0ffa2.js"
+    "static/css/main.b2a6ee32.css",
+    "static/js/main.dc0136d8.js"
   ]
 }
