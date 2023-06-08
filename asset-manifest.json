@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codoid-assesment/static/css/main.5d3f302c.css",
-    "main.js": "/codoid-assesment/static/js/main.6a3b7168.js",
+    "main.js": "/codoid-assesment/static/js/main.74b0ffa2.js",
     "static/js/787.fa4a499b.chunk.js": "/codoid-assesment/static/js/787.fa4a499b.chunk.js",
     "static/media/about1.jpg": "/codoid-assesment/static/media/about1.ae29b233c2921a94ea6d.jpg",
     "static/media/home-title-img.jpg": "/codoid-assesment/static/media/home-title-img.910b882cf638183f82a8.jpg",
@@ -33,11 +33,11 @@
     "static/media/x.svg": "/codoid-assesment/static/media/x.ba58a0944c3a20dee81a2123c46d3053.svg",
     "static/media/menu.svg": "/codoid-assesment/static/media/menu.f99b5ed36a149e3d1cf17f9f2ee3b77c.svg",
     "main.5d3f302c.css.map": "/codoid-assesment/static/css/main.5d3f302c.css.map",
-    "main.6a3b7168.js.map": "/codoid-assesment/static/js/main.6a3b7168.js.map",
+    "main.74b0ffa2.js.map": "/codoid-assesment/static/js/main.74b0ffa2.js.map",
     "787.fa4a499b.chunk.js.map": "/codoid-assesment/static/js/787.fa4a499b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d3f302c.css",
-    "static/js/main.6a3b7168.js"
+    "static/js/main.74b0ffa2.js"
   ]
 }
