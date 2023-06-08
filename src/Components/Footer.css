@@ -1,0 +1,31 @@
+.footer-main{
+    margin: 0;
+    color: gray;
+    font-family: "Barlow", sans-serif;
+    letter-spacing: 1px;
+    line-height: 25px;
+    background-color: lavender;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.footer-head{
+    color: black;
+}
+.footer-content{
+    text-align: center;
+    margin: 50px 200px 50px 200px;
+}
+.footer-social-links{
+    color: black;
+    padding: 10px;
+}
+.footer-social-links :hover{
+    color: orangered;
+}
+
+@media(max-width: 800px){
+    .footer-content{
+        margin: 25px 50px 25px 50px;
+    }
+}
